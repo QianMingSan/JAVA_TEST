@@ -14,8 +14,6 @@ public class IfDemo1 {
 //            System.out.println("可以上网吧");
 //        }
 
-
-
         if (age>18){
             System.out.println("可以上网吧");
         }else {
